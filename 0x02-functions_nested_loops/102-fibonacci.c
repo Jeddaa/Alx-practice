@@ -11,7 +11,7 @@ int main(void)
 {
 long int i = 1, j = 2, result;
 int x = 1;
-while (x <= 50)
+while (x <= 98)
 {
 if (i != 20365011074)
 {
